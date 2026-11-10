@@ -1,0 +1,4 @@
+interface:
+  display_name: "Android App Development"
+  short_description: "设计和开发原生 Android 应用，统一模块架构、页面容器、视觉与交互验收"
+  default_prompt: "使用 $android-app-development 为当前 Android 应用设计并实现功能，沿用现有技术栈并验证界面与行为。"
